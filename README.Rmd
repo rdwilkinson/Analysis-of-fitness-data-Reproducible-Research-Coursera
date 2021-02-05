@@ -12,7 +12,7 @@ options(scipen=999) # Remove scientific notation
 
 # Activity data assignment
 
-_This was the first of two peer-reviewed assignments for the ['Reproducible Research'](https://www.coursera.org/learn/reproducible-research) Coursera course. The original assignment instructions can be found [here](Assignment instructions.md)_
+_This was the first of two peer-reviewed assignments for the ['Reproducible Research'](https://www.coursera.org/learn/reproducible-research) Coursera course. The original assignment instructions can be found [here](Assignment instructions.md)._
 
 ## Open the dataset
 
