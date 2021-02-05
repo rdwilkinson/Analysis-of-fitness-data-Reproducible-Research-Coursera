@@ -1,18 +1,18 @@
 ---
 author: "Richard D. Wilkinson"
 date: "02/11/2020"
-output: html_document
+output: github_document
 title: "Reproducible Research: Peer Assessment 1"
-keep_md: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+options(scipen=999) # Remove scientific notation
 ```
 
-Activity data assignment
+# Activity data assignment
 
-########################
+_This was the first of two peer-reviewed assignments for the ['Reproducible Research'](https://www.coursera.org/learn/reproducible-research) Coursera course. The original assignment instructions can be found [here](Assignment instructions.md)_
 
 ## Open the dataset
 
