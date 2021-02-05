@@ -9,7 +9,7 @@ Richard D. Wilkinson
 [‘Reproducible
 Research’](https://www.coursera.org/learn/reproducible-research)
 Coursera course. The original assignment instructions can be found
-[here](Assignment%20instructions.md)*
+[here](https://github.com/rdwilkinson/Peer_Assignment1/blob/master/Assignment%20instructions.md).*
 
 ## Open the dataset
 
